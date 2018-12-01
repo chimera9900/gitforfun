@@ -5,7 +5,10 @@
 this is fun app
 ## purpose
 
+this is purpose of app
+
 ## how to contribute
+contribute by different teams
 
 ### deployment
 
