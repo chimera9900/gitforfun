@@ -1,7 +1,8 @@
 # gitforfun
 
-## introduction
 
+## introduction
+this is fun app
 ## purpose
 
 ## how to contribute
