@@ -11,3 +11,5 @@ new branch commit
 copy right
 
 adding new employ in the production team
+
+adding 2nd team member in R&D
