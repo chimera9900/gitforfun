@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 master branch
 
 2nd paragrah
 
 master branch
+
+
+2nd paragrah
+
+realbranch text
+>>>>>>> realbranch
 
 new branch commit
 
