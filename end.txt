@@ -7,3 +7,5 @@ blar blar
 new branch commit
 
 4th paragrah
+
+copy right
